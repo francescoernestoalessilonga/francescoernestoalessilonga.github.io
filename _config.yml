@@ -1,1 +1,18 @@
+title: "Francesco Ernesto Alessi Longa"
+description: "Official Academic & Professional Website"
+url: "https://francescoernestoalessilonga.github.io"
+baseurl: ""
 
+markdown: kramdown
+
+theme: null
+
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+collections:
+  pages:
+    output: true
